@@ -28,6 +28,13 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				food: {
+					primary: '#FF6B35',
+					secondary: '#C71F37',
+					accent: '#FF9F1C',
+					dark: '#2B2D42',
+					light: '#F7F7F7'
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
